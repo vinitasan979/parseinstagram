@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parseinstagram</string>
+    <string name="button">LOGIN</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="logout">LOGOUT</string>
+    <string name="add">ADD</string>
+</resources>
